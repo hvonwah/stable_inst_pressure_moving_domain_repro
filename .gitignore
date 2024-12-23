@@ -1,0 +1,6 @@
+**/*.pvd
+**/*.vtu
+**/*.txt
+**/*.pickle
+**/.DS_Store
+**__pycache__
