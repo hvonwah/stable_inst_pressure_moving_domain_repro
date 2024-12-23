@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14548166.svg)](https://doi.org/10.5281/zenodo.14548166)
+
 # Reproduction Code
 
 This repository contains the scripts to reproduce the numerical examples presented in the paper *Stability of instantaneous pressures in an Eulerian finite element method for moving boundary flow problems* by M. Olshanskii and H. von Wahl.
